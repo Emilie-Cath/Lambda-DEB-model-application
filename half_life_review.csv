@@ -1,0 +1,44 @@
+Species;tissue;element;t1/2;Mass (g);Body temperature (°C);DEB;model;Source;Year;type
+Pseudopleuronectes_yokohamae;muscle;C;17,2;1,45;19,2;1;abj;Hamaoka et al.;2015;ectotherm
+Pseudopleuronectes_yokohamae;whole body;N;17,4;1,45;19,2;1;abj;Hamaoka et al.;2015;ectotherm
+Pseudopleuronectes_yokohamae;muscle;C;18,5;1,45;19,2;1;abj;Hamaoka et al.;2015;ectotherm
+Pseudopleuronectes_yokohamae;whole body;N;14;1,45;19,2;1;abj;Hamaoka et al.;2015;ectotherm
+Barbus_barbus;muscle;N;84,25;7,7;20;1;abj;Busst & Britton;2018;ectotherm
+Barbus_barbus;muscle;N;91,89;7,7;20;1;abj;Busst & Britton;2019;ectotherm
+Perca_fluviatilis;muscle;C;29,09;;16;1;abj;Yohannes et al.;2017;ectotherm
+Perca_fluviatilis;muscle;N;59,05;;16;1;abj;Yohannes et al.;2017;ectotherm
+Perca_fluviatilis;muscle;S;18,78;;16;1;abj;Yohannes et al.;2017;ectotherm
+Perca_fluviatilis;muscle;N;56,39;;16;1;abj;Yohannes et al.;2017;ectotherm
+Tursiops_truncatus;muscle;C;20,44;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;C;24,44;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;C;24,8;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;C;25,76;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;N;20,06;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;N;49,8;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;N;36,42;;;1;stx;Giménez et al.;2016;endotherm
+Tursiops_truncatus;muscle;N;74,23;;;1;stx;Giménez et al.;2016;endotherm
+Cyprinus_carpio;muscle;C;43,9;8;18;1;abj;Winter et al.;2019;ectotherm
+Cyprinus_carpio;muscle;C;52,2;8;18;1;abj;Winter et al.;2019;ectotherm
+Cyprinus_carpio;muscle;N;102;8;18;1;abj;Winter et al.;2019;ectotherm
+Sander_vitreus;muscle;N;13;1,2;20;1;abj;Schuman et al.;2018;ectotherm
+Sander_vitreus;muscle;C;12,1;1,2;20;1;abj;Schuman et al.;2018;ectotherm
+Ptychocheilus_lucius;muscle;C;62;45;21;1;abj;Franssen et al.;2016;ectotherm
+Ptychocheilus_lucius;muscle;N;133;45;21;1;abj;Franssen et al.;2016;ectotherm
+Lymnaea_stagnalis;muscle;C;8,1;0,0000427;20;1;abj;Li et al;2018;ectotherm
+Lymnaea_stagnalis;muscle;N;2,2;0,0000427;20;1;abj;Li et al;2018;ectotherm
+Procambarus_virginalis;muscle;C;15,27;0,9;20;1;abj;Vesely et al;2024;ectotherm
+Procambarus_virginalis;muscle;C;11,81;0,9;20;1;abj;Vesely et al;2024;ectotherm
+Procambarus_virginalis;muscle;N;29,44;0,9;20;1;abj;Vesely et al;2024;ectotherm
+Procambarus_virginalis;muscle;N;39,49;0,9;20;1;abj;Vesely et al;2024;ectotherm
+Engraulis_japonicus;muscle;C;1,93;70,86;25;1;abj;Tanaka et al.;2016;ectotherm
+Engraulis_japonicus;muscle;N;2,81;70,86;25;1;abj;Tanaka et al.;2016;ectotherm
+Engraulis_japonicus;muscle;C;4,03;81,97;23;1;abj;Tanaka et al.;2016;ectotherm
+Engraulis_japonicus;muscle;N;4,66;81,97;23;1;abj;Tanaka et al.;2016;ectotherm
+Engraulis_japonicus;muscle;C;14,12;87,25;17;1;abj;Tanaka et al.;2016;ectotherm
+Engraulis_japonicus;muscle;N;10,94;87,25;17;1;abj;Tanaka et al.;2016;ectotherm
+Hediste_diversicolor;whole body;C;4,9;0,46;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
+Hediste_diversicolor;whole body;N;7,3;0,46;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
+Crepidula_fornicata;whole body;C;16,7;1,8;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
+Crepidula_fornicata;whole body;N;38,4;1,8;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
+Cerastoderma_edule;whole body;C;6,5;1,77;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
+Cerastoderma_edule;whole body;N;7,9;1,77;15,9;1;abj;lefebvre and dubois ;2016;ectotherm
