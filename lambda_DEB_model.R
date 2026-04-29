@@ -191,9 +191,8 @@ obs$L_corr<- L_obs$L_corr
 obs$t1_2_pred<- pred_lam_half_life(f=f,obs=obs,data=data)
 
 
-tiff("ATTENTION ESSAI.tiff",  width =4 , height = 5, units = "in", res = 300)
 
-# tiff("obs_vs_pred_DEB_OBS_f0.8_.tiff",  width =4 , height = 5, units = "in", res = 300)
+tiff("obs_vs_pred_DEB_OBS_f0.8_.tiff",  width =4 , height = 5, units = "in", res = 300)
 plot(NULL,xlim=c(0,3),ylim=c(-1,3),xlab="observed Half-life",
      ylab="λ-DEB predicted Half-life")
 
